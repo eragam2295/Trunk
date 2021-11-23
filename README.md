@@ -2,4 +2,4 @@
 this is my org main repo
 
 #ths is created for study purpose
-just chill
+bacisally showign the branching and mergingn strategies.
